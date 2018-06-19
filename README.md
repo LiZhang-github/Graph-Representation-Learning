@@ -1,4 +1,6 @@
 # Graph Representation Learning
+## Some important papers
+https://github.com/thunlp/NRLPapers
 ## Good slides
 ### Structured deep models:Deep learning on graphs and beyond
 http://tkipf.github.io/misc/SlidesCambridge.pdf
