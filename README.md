@@ -1,6 +1,7 @@
 # Graph Representation Learning
 ## Some important papers
 https://github.com/thunlp/NRLPapers
+### awesome-network-embedding
 https://github.com/chihming/awesome-network-embedding/blob/master/README.md
 ### geometric-deep-learning-literature
 https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/README.md
