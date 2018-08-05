@@ -1,6 +1,7 @@
 # Graph Representation Learning
 ## Some important papers
 https://github.com/thunlp/NRLPapers
+https://github.com/chihming/awesome-network-embedding/blob/master/README.md
 ## Good slides
 ### Structured deep models:Deep learning on graphs and beyond
 http://tkipf.github.io/misc/SlidesCambridge.pdf
