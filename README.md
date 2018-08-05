@@ -2,6 +2,7 @@
 ## Some important papers
 https://github.com/thunlp/NRLPapers
 https://github.com/chihming/awesome-network-embedding/blob/master/README.md
+### geometric-deep-learning-literature
 https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/README.md
 ### Graph-based Neural Networks
 https://github.com/sungyongs/graph-based-nn
