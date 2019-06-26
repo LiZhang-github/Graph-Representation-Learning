@@ -16,6 +16,12 @@ http://snap.stanford.edu/proj/embeddings-www/
 ### Overview of neural network architectures for graph-structured data analysis
 http://www.cl.cam.ac.uk/~pv273/slides/UCLGraph.pdf
 
+## 2019 top conference paper for Graph Neural Network
+
+### ICML2019
+Adversarial Attacks on Node Embeddings via Graph Poisoning
+https://arxiv.org/pdf/1809.01093.pdf
+
 ## Graph Data
 ### LINQS Statistical Relational Learning Group
 https://linqs.soe.ucsc.edu/data
