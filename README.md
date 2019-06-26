@@ -22,6 +22,9 @@ http://www.cl.cam.ac.uk/~pv273/slides/UCLGraph.pdf
 Adversarial Attacks on Node Embeddings via Graph Poisoning
 https://arxiv.org/pdf/1809.01093.pdf
 
+Learning Discrete Structures for Graph Neural Networks
+https://arxiv.org/pdf/1903.11960.pdf
+
 ## Graph Data
 ### LINQS Statistical Relational Learning Group
 https://linqs.soe.ucsc.edu/data
