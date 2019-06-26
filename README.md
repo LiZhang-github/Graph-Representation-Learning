@@ -25,6 +25,13 @@ https://arxiv.org/pdf/1809.01093.pdf
 Learning Discrete Structures for Graph Neural Networks
 https://arxiv.org/pdf/1903.11960.pdf
 
+MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing
+https://arxiv.org/pdf/1905.00067.pdf
+
+Graph markov neural networks
+
+
+
 ## Graph Data
 ### LINQS Statistical Relational Learning Group
 https://linqs.soe.ucsc.edu/data
