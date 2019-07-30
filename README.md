@@ -40,6 +40,9 @@ https://arxiv.org/pdf/1906.01277.pdf
 RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space
 https://openreview.net/forum?id=HkgEQnRqYQ
 
+HOW POWERFUL ARE GRAPH NEURAL NETWORKS?
+https://cs.stanford.edu/people/jure/pubs/gin-iclr19.pdf
+
 
 ### WWW/KDD 2019
 Session-based Social Recommendation via Dynamic Graph Attention Networks
