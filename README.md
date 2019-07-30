@@ -1,6 +1,6 @@
 # Graph Representation Learning
 
-## 2019 top conference paper for Graph Neural Network (updating)
+## 2019 top conference papers for Graph Neural Networks (updating)
 
 ### ICML2019
 Adversarial Attacks on Node Embeddings via Graph Poisoning
